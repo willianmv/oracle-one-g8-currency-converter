@@ -1,0 +1,44 @@
+Log de Conversão - 05-04-2025 19:20:07
+Valor = 15,00 | USD | United
+Resulta em =  84,83 | BRL | Brazilian
+------------------------------------------
+Log de Conversão - 05-04-2025 19:20:50
+Valor = 1500,50 | BRL | Brazilian
+Resulta em =  265,29 | USD | United
+------------------------------------------
+Log de Conversão - 05-04-2025 19:26:48
+Valor = 780,55 | USD
+Resulta em =  4414,17 | BRL
+------------------------------------------
+Log de Conversão - 05-04-2025 19:28:32
+Valor = 10,00 | BRL
+Resulta em =  1902,47 | ARS
+------------------------------------------
+Log de Conversão - 05-04-2025 19:56:44
+Valor = 100,00 | CAD
+Resulta em =  398,60 | BRL
+------------------------------------------
+Log de Conversão - 05-04-2025 19:57:05
+Valor = 100,00 | USD
+Resulta em =  565,52 | BRL
+------------------------------------------
+Log de Conversão - 12-04-2025 18:11:37
+Valor = 305,00 | USD
+Resulta em =  1794,22 | BRL
+------------------------------------------
+Log de Conversão - 12-04-2025 18:12:32
+Valor = 15,00 | BRL
+Resulta em =  1,81 | JOD
+------------------------------------------
+Log de Conversão - 12-04-2025 18:14:42
+Valor = 1,81 | JOD
+Resulta em =  15,02 | BRL
+------------------------------------------
+Log de Conversão - 12-04-2025 18:15:33
+Valor = 15,02 | BRL
+Resulta em =  1,81 | JOD
+------------------------------------------
+Log de Conversão - 12-04-2025 18:24:15
+Valor = 150,55 | USD
+Resulta em =  885,64 | BRL
+------------------------------------------

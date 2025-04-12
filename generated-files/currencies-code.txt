@@ -1,0 +1,165 @@
+Código     Moeda                                   
+------------------------------------------
+FJD        Fiji Dollar                             
+MXN        Mexican Peso                            
+SCR        Seychellois Rupee                       
+TVD        Tuvaluan Dollar                         
+CDF        Congolese Franc                         
+BBD        Barbados Dollar                         
+GTQ        Guatemalan Quetzal                      
+CLP        Chilean Peso                            
+HNL        Honduran Lempira                        
+UGX        Ugandan Shilling                        
+ZAR        South African Rand                      
+TND        Tunisian Dinar                          
+STN        São Tomé and Príncipe Dobra             
+SLE        Sierra Leonean Leone                    
+BSD        Bahamian Dollar                         
+SLL        Sierra Leonean Leone                    
+SDG        Sudanese Pound                          
+IQD        Iraqi Dinar                             
+CUP        Cuban Peso                              
+GMD        Gambian Dalasi                          
+TWD        New Taiwan Dollar                       
+RSD        Serbian Dinar                           
+DOP        Dominican Peso                          
+KMF        Comorian Franc                          
+MYR        Malaysian Ringgit                       
+FKP        Falkland Islands Pound                  
+XOF        West African CFA franc                  
+GEL        Georgian Lari                           
+UYU        Uruguayan Peso                          
+MAD        Moroccan Dirham                         
+CVE        Cape Verdean Escudo                     
+TOP        Tongan Paʻanga                          
+AZN        Azerbaijani Manat                       
+OMR        Omani Rial                              
+PGK        Papua New Guinean Kina                  
+KES        Kenyan Shilling                         
+SEK        Swedish Krona                           
+BTN        Bhutanese Ngultrum                      
+UAH        Ukrainian Hryvnia                       
+GNF        Guinean Franc                           
+ERN        Eritrean Nakfa                          
+MZN        Mozambican Metical                      
+ARS        Argentine Peso                          
+QAR        Qatari Riyal                            
+IRR        Iranian Rial                            
+CNY        Chinese Renminbi                        
+THB        Thai Baht                               
+UZS        Uzbekistani So'm                        
+XPF        CFP Franc                               
+MRU        Mauritanian Ouguiya                     
+BDT        Bangladeshi Taka                        
+LYD        Libyan Dinar                            
+BMD        Bermudian Dollar                        
+KWD        Kuwaiti Dinar                           
+PHP        Philippine Peso                         
+RUB        Russian Ruble                           
+PYG        Paraguayan Guaraní                      
+ISK        Icelandic Króna                         
+JMD        Jamaican Dollar                         
+COP        Colombian Peso                          
+MKD        Macedonian Denar                        
+USD        United States Dollar                    
+DZD        Algerian Dinar                          
+PAB        Panamanian Balboa                       
+GGP        Guernsey Pound                          
+SGD        Singapore Dollar                        
+ETB        Ethiopian Birr                          
+JEP        Jersey Pound                            
+KGS        Kyrgyzstani Som                         
+SOS        Somali Shilling                         
+VUV        Vanuatu Vatu                            
+LAK        Lao Kip                                 
+BND        Brunei Dollar                           
+XAF        Central African CFA Franc               
+LRD        Liberian Dollar                         
+CHF        Swiss Franc                             
+HRK        Croatian Kuna                           
+ALL        Albanian Lek                            
+DJF        Djiboutian Franc                        
+VES        Venezuelan Bolívar Soberano             
+ZMW        Zambian Kwacha                          
+TZS        Tanzanian Shilling                      
+VND        Vietnamese Đồng                         
+AUD        Australian Dollar                       
+ILS        Israeli New Shekel                      
+GHS        Ghanaian Cedi                           
+GYD        Guyanese Dollar                         
+BOB        Bolivian Boliviano                      
+KHR        Cambodian Riel                          
+MDL        Moldovan Leu                            
+IDR        Indonesian Rupiah                       
+KYD        Cayman Islands Dollar                   
+AMD        Armenian Dram                           
+BWP        Botswana Pula                           
+SHP        Saint Helena Pound                      
+TRY        Turkish Lira                            
+LBP        Lebanese Pound                          
+TJS        Tajikistani Somoni                      
+JOD        Jordanian Dinar                         
+AED        UAE Dirham                              
+HKD        Hong Kong Dollar                        
+RWF        Rwandan Franc                           
+EUR        Euro                                    
+FOK        Faroese Króna                           
+LSL        Lesotho Loti                            
+DKK        Danish Krone                            
+CAD        Canadian Dollar                         
+KID        Kiribati Dollar                         
+BGN        Bulgarian Lev                           
+MMK        Burmese Kyat                            
+MUR        Mauritian Rupee                         
+NOK        Norwegian Krone                         
+SYP        Syrian Pound                            
+IMP        Manx Pound                              
+ZWL        Zimbabwean Dollar                       
+GIP        Gibraltar Pound                         
+RON        Romanian Leu                            
+LKR        Sri Lanka Rupee                         
+NGN        Nigerian Naira                          
+CRC        Costa Rican Colon                       
+CZK        Czech Koruna                            
+PKR        Pakistani Rupee                         
+XCD        East Caribbean Dollar                   
+ANG        Netherlands Antillian Guilder           
+HTG        Haitian Gourde                          
+XCG        Caribbean Guilder                       
+BHD        Bahraini Dinar                          
+KZT        Kazakhstani Tenge                       
+SRD        Surinamese Dollar                       
+SZL        Eswatini Lilangeni                      
+SAR        Saudi Riyal                             
+TTD        Trinidad and Tobago Dollar              
+YER        Yemeni Rial                             
+MVR        Maldivian Rufiyaa                       
+AFN        Afghan Afghani                          
+INR        Indian Rupee                            
+AWG        Aruban Florin                           
+KRW        South Korean Won                        
+NPR        Nepalese Rupee                          
+JPY        Japanese Yen                            
+MNT        Mongolian Tögrög                        
+AOA        Angolan Kwanza                          
+PLN        Polish Złoty                            
+GBP        Pound Sterling                          
+SBD        Solomon Islands Dollar                  
+BYN        Belarusian Ruble                        
+HUF        Hungarian Forint                        
+BIF        Burundian Franc                         
+MWK        Malawian Kwacha                         
+MGA        Malagasy Ariary                         
+XDR        Special Drawing Rights                  
+BZD        Belize Dollar                           
+BAM        Bosnia and Herzegovina Convertible Mark 
+EGP        Egyptian Pound                          
+MOP        Macanese Pataca                         
+NAD        Namibian Dollar                         
+SSP        South Sudanese Pound                    
+NIO        Nicaraguan Córdoba                      
+PEN        Peruvian Sol                            
+NZD        New Zealand Dollar                      
+WST        Samoan Tālā                             
+TMT        Turkmenistan Manat                      
+BRL        Brazilian Real                          
