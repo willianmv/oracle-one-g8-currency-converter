@@ -11,7 +11,7 @@ public class AppMain {
 //        Usar quando precisar atualizar a lista de codes disponíveis
 //        FileGenerator fileGenerator = new FileGenerator();
 //        fileGenerator.generateCurrenciesCodesFromClient();
-
+    
         MenuOptions menuOptions = new MenuOptions();
 
         while(true){

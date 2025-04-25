@@ -14,7 +14,9 @@ public class Input {
     public String getCountryCode(String msg){
         boolean validInput = false;
         while(!validInput){
-                code = JOptionPane.showInputDialog(null, msg, JOptionPane.INFORMATION_MESSAGE);
+                code = JOptionPane.showInputDialog(null, msg, "Código da moeda",JOptionPane.INFORMATION_MESSAGE);
+
+                if(code == null) return null;
 
                 Map<String, String> supportedCodes = dataExtractor.getSupportedCodesFromFile();
                 if(supportedCodes.containsKey(code)){
@@ -38,7 +40,10 @@ public class Input {
                                 - Exemplo: 1500.54
                                 - Certifique-se de não usar caracteres inválidos
                                 """,
+                        "Valor para conversão",
                         JOptionPane.INFORMATION_MESSAGE);
+
+                if(input == null) return -1;
 
                 valor = Double.parseDouble(input);
                 validInput = true;

@@ -30,8 +30,14 @@ public class MenuOptions {
                 """;
 
         String countryBaseCode = input.getCountryCode(msgBaseCountry);
+        if(countryBaseCode == null) return;
+
         String countryDestinyCode = input.getCountryCode(msgDestinyCountry);
+        if(countryDestinyCode == null) return;
+
         double valueToConvert = input.getDoubleValue();
+        if(valueToConvert == -1) return;
+
 
         double conversionRate = dataExtractor.getConversionRate(countryBaseCode, countryDestinyCode);
         double convertedValue = valueToConvert * conversionRate;
@@ -61,7 +67,7 @@ public class MenuOptions {
         }else{
             StringBuilder sb = new StringBuilder();
             for(String conversao : this.conversionHistory){
-                sb.append(conversao).append("------------------------").append("\n");
+                sb.append(conversao).append("-------------------------------------------").append("\n");
             }
             JOptionPane.showMessageDialog(null, sb,
                     "Histórico de Conversões Recentes", JOptionPane.INFORMATION_MESSAGE);
