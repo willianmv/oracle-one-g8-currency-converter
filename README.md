@@ -59,8 +59,9 @@ A classe **`FileGenerator`** é encarregada de gerar e gerenciar os arquivos loc
    ![Histórico](images/historico-conversoes.png)
 ---
 
-  Ela organiza as etapas da conversão e chama as funções de entrada, conversão e exibição de histórico. Caso o usuário forneça dados inválidos, o menu volta a ser exibido para uma nova tentativa.
-  ![Erro entrada](images/erro-entrada.png)
+Ela organiza as etapas da conversão e chama as funções de entrada, conversão e exibição de histórico. Caso o usuário forneça dados inválidos, o menu volta a ser exibido para uma nova tentativa.
+
+![Erro entrada](images/erro-entrada.png)
 ---
 
 ## 🗂️ Diretório `generated-files`
