@@ -28,6 +28,7 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-currency-converter.iml
 .idea
-./generated-files/conversion-logs.txt
+currency-converter.iml
+env
+generated-files/conversion-logs.txt

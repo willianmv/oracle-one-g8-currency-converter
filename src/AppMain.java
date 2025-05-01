@@ -1,5 +1,5 @@
-import services.DataExtractor;
 import services.FileGenerator;
+import utils.EnvLoader;
 import utils.MenuOptions;
 
 import javax.swing.*;
@@ -8,14 +8,12 @@ public class AppMain {
 
     public static void main(String[] args) {
 
-//        Usar quando precisar atualizar a lista de codes disponíveis
-//        FileGenerator fileGenerator = new FileGenerator();
-//        fileGenerator.generateCurrenciesCodesFromClient();
-    
+        EnvLoader.loadEnv("env");
         MenuOptions menuOptions = new MenuOptions();
+        FileGenerator fileGenerator = new FileGenerator();
 
         while(true){
-            String[] options = {"Realizar Conversão", "Verificar Histórico", "Sair"};
+            String[] options = {"Realizar Conversão", "Verificar Histórico", "Atualizar", "Sair"};
             int choice = JOptionPane.showOptionDialog(
                     null,
                     "Escolha uma opção:",
@@ -35,6 +33,9 @@ public class AppMain {
                     menuOptions.showHistory();
                     break;
                 case 2:
+                    fileGenerator.generateCurrenciesCodesFromClient();
+                    break;
+                case 3:
                     System.exit(0);
                     break;
                 default:

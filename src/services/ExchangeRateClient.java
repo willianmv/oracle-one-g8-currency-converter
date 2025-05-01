@@ -7,7 +7,9 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ExchangeRateClient {
-    private final String apiKey = "<insira-aqui-sua-chave-da-acesso>";
+
+    //Adicione a chave de acesso para o Exchange Rate API
+    private final String apiKey = System.getProperty("API_KEY");
     private final String url = "https://v6.exchangerate-api.com/v6/"+apiKey;
     private final HttpClient httpClient = HttpClient.newHttpClient();
 

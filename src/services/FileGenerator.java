@@ -5,6 +5,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 public class FileGenerator {
@@ -18,8 +20,10 @@ public class FileGenerator {
             fw.write("------------------------------------------\n");
 
             Map<String, String> supportedCodes = dataExtractor.getSupportedCodesFromClient();
+            List<Map.Entry<String, String>> entryList = new ArrayList<>(supportedCodes.entrySet());
+            entryList.sort(Map.Entry.comparingByValue());
 
-            for (Map.Entry<String, String> entry : supportedCodes.entrySet()) {
+            for (Map.Entry<String, String> entry : entryList) {
                 String currencyCode = entry.getKey();
                 String currencyName = entry.getValue();
                 fw.write(String.format("%-10s %-40s%n", currencyCode, currencyName));
