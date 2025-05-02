@@ -10,7 +10,6 @@ public class AppMain {
 
         EnvLoader.loadEnv("env");
         MenuOptions menuOptions = new MenuOptions();
-        FileGenerator fileGenerator = new FileGenerator();
 
         while(true){
             String[] options = {"Realizar Conversão", "Verificar Histórico", "Atualizar", "Sair"};
@@ -33,7 +32,7 @@ public class AppMain {
                     menuOptions.showHistory();
                     break;
                 case 2:
-                    fileGenerator.generateCurrenciesCodesFromClient();
+                    menuOptions.updateCurrencyCodes();
                     break;
                 case 3:
                     System.exit(0);

@@ -31,4 +31,3 @@ bin/
 .idea
 currency-converter.iml
 env
-generated-files/conversion-logs.txt

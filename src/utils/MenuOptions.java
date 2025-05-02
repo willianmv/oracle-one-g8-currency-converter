@@ -73,4 +73,8 @@ public class MenuOptions {
                     "Histórico de Conversões Recentes", JOptionPane.INFORMATION_MESSAGE);
         }
     }
+
+    public void updateCurrencyCodes(){
+        fileGenerator.generateCurrenciesCodesFromClient();;
+    }
 }
