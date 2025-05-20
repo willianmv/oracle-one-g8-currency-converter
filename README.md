@@ -116,3 +116,13 @@ Resulta em =  1548,00 | BRL
 ------------------------------------------
 ````
 Esses arquivos são manipulados pelas classes `FileGenerator` e `DataExtractor`, e são atualizados automaticamente conforme o uso da aplicação.
+
+
+---
+
+## Badge de Entrega do Desafio
+
+![Badge](images/badge-conversor.png)
+
+---
+

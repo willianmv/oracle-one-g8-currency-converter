@@ -73,5 +73,4 @@ public class DataExtractor {
             return 0;
         }
     }
-
 }
